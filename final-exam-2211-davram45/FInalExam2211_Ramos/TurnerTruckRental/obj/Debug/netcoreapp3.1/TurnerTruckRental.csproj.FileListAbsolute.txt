@@ -1,0 +1,14 @@
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\bin\Debug\netcoreapp3.1\TurnerTruckRental.exe
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\bin\Debug\netcoreapp3.1\TurnerTruckRental.deps.json
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\bin\Debug\netcoreapp3.1\TurnerTruckRental.runtimeconfig.json
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\bin\Debug\netcoreapp3.1\TurnerTruckRental.runtimeconfig.dev.json
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\bin\Debug\netcoreapp3.1\TurnerTruckRental.dll
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\bin\Debug\netcoreapp3.1\TurnerTruckRental.pdb
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\obj\Debug\netcoreapp3.1\TurnerTruckRental.csproj.AssemblyReference.cache
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\obj\Debug\netcoreapp3.1\TurnerTruckRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\obj\Debug\netcoreapp3.1\TurnerTruckRental.AssemblyInfoInputs.cache
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\obj\Debug\netcoreapp3.1\TurnerTruckRental.AssemblyInfo.cs
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\obj\Debug\netcoreapp3.1\TurnerTruckRental.csproj.CoreCompileInputs.cache
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\obj\Debug\netcoreapp3.1\TurnerTruckRental.dll
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\obj\Debug\netcoreapp3.1\TurnerTruckRental.pdb
+C:\Users\dr2671\source\repos\final-exam-2211-davram45\FInalExam2211_Ramos\TurnerTruckRental\obj\Debug\netcoreapp3.1\TurnerTruckRental.genruntimeconfig.cache
